@@ -18,27 +18,15 @@ GRM App is a web-based application that enables efficient management of global r
 
 ## Features
 
-[List the key features and functionalities of GRM App.]
-
 ## Installation
-
-[Provide instructions for setting up and installing GRM App locally. Include any dependencies or prerequisites.]
 
 ## Usage
 
-[Provide instructions on how to use GRM App. Include any necessary login credentials or initial setup steps.]
-
 ## API Documentation
-
-[If applicable, provide documentation or link to API documentation for GRM App.]
 
 ## Contributing
 
-[Explain how others can contribute to GRM App. Include guidelines for bug reports, feature requests, and pull requests.]
-
 ## License
-
-[Specify any licensing information or copyrights related to the products, software, and services provided by Novacura AB.]
 
 ## Website
 
